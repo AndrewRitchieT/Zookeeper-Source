@@ -98,13 +98,20 @@ key里没有1，value放的是1号主机发送给2号主机，没有发送成功
 
 
 
+记录当前Server收到的来自于其它Server的本轮投票信息
 
+key为投票者的serverId，value为选票
 
+recvset集合就相当于票箱
 
+outofelection 不合法的票箱
 
+选票来自于Notification，Notification不管对方是什么状态，都会收到。有时候是不合法的消息。
 
-
-
+```java
+       HashMap<Long, Vote> recvset = new HashMap<Long, Vote>();
+       HashMap<Long, Vote> outofelection = new HashMap<Long, Vote>();
+```
 
 
 
