@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="913439ee-3f01-4608-bd77-87d6dca57b1f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/ClientCnxnSocketNIO.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/ZooKeeperMain.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/ClientCnxnSocket.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/ClientCnxn.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1QQ5Ga55YvnPpZqcbEZY4dsxukw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zookeeper-3.4.14" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ZooKeeperTest.testDeletew33weeeRecursive">
+    <configuration name="SimpleSysTest.testSimpleCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-3.4.13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.zookeeper.test.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.zookeeper.test.system" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.zookeeper.test.system.SimpleSysTest" />
+      <option name="METHOD_NAME" value="testSimpleCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooKeeperTest.testDeleteRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-3.4.13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.zookeeper.ZooKeeperTest" />
+      <option name="METHOD_NAME" value="testDeleteRecursive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooKeeperTest.testDeletew33weeeRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-3.4.13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.zookeeper.ZooKeeperTest" />
+      <option name="METHOD_NAME" value="testDeletew33weeeRecursive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZooKeeperTest.testDeletew33weeeRecursive" />
+        <item itemvalue="JUnit.ZooKeeperTest.testDeleteRecursive" />
+        <item itemvalue="JUnit.SimpleSysTest.testSimpleCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="913439ee-3f01-4608-bd77-87d6dca57b1f" name="Default Changelist" comment="" />
+      <created>1567689886011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567689886011</updated>
+      <workItem from="1567689893307" duration="777000" />
+      <workItem from="1567780633884" duration="97000" />
+      <workItem from="1567780759585" duration="1135000" />
+      <workItem from="1567809007677" duration="12642000" />
+      <workItem from="1567829181045" duration="1394000" />
+      <workItem from="1567836380461" duration="2324000" />
+      <workItem from="1567905098288" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

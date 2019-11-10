@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/audience-annotations-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jline-0.9.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.10.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

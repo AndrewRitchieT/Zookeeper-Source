@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zookeeper-3.4.13-recipes-queue">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/recipes/queue/zookeeper-3.4.13-recipes-queue.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

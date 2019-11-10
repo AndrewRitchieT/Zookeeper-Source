@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zookeeper-3.4.13-rest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/rest/zookeeper-3.4.13-rest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

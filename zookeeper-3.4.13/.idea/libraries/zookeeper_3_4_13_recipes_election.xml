@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zookeeper-3.4.13-recipes-election">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/recipes/election/zookeeper-3.4.13-recipes-election.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
