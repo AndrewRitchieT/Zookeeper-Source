@@ -68,13 +68,13 @@ QuorumCnxManager
 
 
 
-![1567578988876](E:\github\zookeeper\images\1567578988876.png)
+![1567578988876](d:\github\zookeeper\images\1567578988876.png)
 
 
 
 确保只有一个链接保持通信就够了，不需要互相链接。
 
-![1567580082400](E:\github\zookeeper\images\1567580082400.png)
+![1567580082400](d:\github\zookeeper\images\1567580082400.png)
 
 Serverid为1的server中quorumcnxmanager对象维护的消息发送状态为失败的map
 

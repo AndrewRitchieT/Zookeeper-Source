@@ -179,13 +179,13 @@ a：Acl，允许授权对象对当前节点进行 ACL 设置
 
 zk 通过Watcher 机制实现了发布/订阅模式。
 
-![1567650205876](E:\github\zookeeper\images\1567650205876.png)
+![1567650205876](d:\github\zookeeper\images\1567650205876.png)
 
 ## watcher 事件
 
 对于同一个事件类型，在不同的通知状态中代表的含义是不同的。
 
-![1567650241524](E:\github\zookeeper\images\1567650241524.png)
+![1567650241524](D:\github\zookeeper\images\1567650241524.png)
 
 ![1567650279449](C:\Users\roseonly\AppData\Roaming\Typora\typora-user-images\1567650279449.png)
 
